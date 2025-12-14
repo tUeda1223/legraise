@@ -20,5 +20,7 @@ Androidは未検証
 3. 画面及び音声の指示に従って足を上げ下げする.
 上げ下げのイメージは例えば (https://www.youtube.com/watch?v=axC5WAr15d0&t=5s) を見て想像で補ってください.
 
+https://github.com/user-attachments/assets/3e199a06-7b37-4595-92fb-e53f089fb39b
+
 ## 参考にさせて頂いた記事
 https://qiita.com/runomee/items/74dbb82adcb7834c6188 
